@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Looper/static/css/main.3c490d54.chunk.css",
+    "main.js": "/Looper/static/js/main.cacce537.chunk.js",
+    "main.js.map": "/Looper/static/js/main.cacce537.chunk.js.map",
+    "runtime-main.js": "/Looper/static/js/runtime-main.82cf26ed.js",
+    "runtime-main.js.map": "/Looper/static/js/runtime-main.82cf26ed.js.map",
+    "static/js/2.b48552a3.chunk.js": "/Looper/static/js/2.b48552a3.chunk.js",
+    "static/js/2.b48552a3.chunk.js.map": "/Looper/static/js/2.b48552a3.chunk.js.map",
+    "static/js/3.6221d706.chunk.js": "/Looper/static/js/3.6221d706.chunk.js",
+    "static/js/3.6221d706.chunk.js.map": "/Looper/static/js/3.6221d706.chunk.js.map",
+    "index.html": "/Looper/index.html",
+    "static/css/main.3c490d54.chunk.css.map": "/Looper/static/css/main.3c490d54.chunk.css.map",
+    "static/js/2.b48552a3.chunk.js.LICENSE.txt": "/Looper/static/js/2.b48552a3.chunk.js.LICENSE.txt",
+    "static/media/bassWarwick.mp3": "/Looper/static/media/bassWarwick.52c24c81.mp3",
+    "static/media/electricGuitar.mp3": "/Looper/static/media/electricGuitar.230fcab8.mp3",
+    "static/media/funkBeats.mp3": "/Looper/static/media/funkBeats.5eb417fc.mp3",
+    "static/media/mazePolitics.mp3": "/Looper/static/media/mazePolitics.2d08c654.mp3",
+    "static/media/pas3groove.mp3": "/Looper/static/media/pas3groove.f77c6da4.mp3",
+    "static/media/silentStar.mp3": "/Looper/static/media/silentStar.f2d668af.mp3",
+    "static/media/stompySlosh.mp3": "/Looper/static/media/stompySlosh.27bdc145.mp3",
+    "static/media/stutterBreakbeats.mp3": "/Looper/static/media/stutterBreakbeats.37c82282.mp3",
+    "static/media/tanggu.mp3": "/Looper/static/media/tanggu.3e1411b4.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82cf26ed.js",
+    "static/js/2.b48552a3.chunk.js",
+    "static/css/main.3c490d54.chunk.css",
+    "static/js/main.cacce537.chunk.js"
+  ]
+}
